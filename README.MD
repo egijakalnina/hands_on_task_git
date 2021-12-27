@@ -7,3 +7,6 @@ To make Feature_A branch
 Create Feature_B branch
     git checkout -b Feature_B
 
+Create Feature_C branch
+    git checkout -b Feature_C
+
