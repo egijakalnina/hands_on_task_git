@@ -3,3 +3,7 @@ To initialize a new local repository:
     
 To make Feature_A branch
     git checkout -b Feature_A
+
+Create Feature_B branch
+    git checkout -b Feature_B
+
