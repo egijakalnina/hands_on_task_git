@@ -14,7 +14,13 @@ To merge the new feature into the master branch:
 - `git merge new-branch`
 
 Check if you have all changes in master branch:
-- ``
+- `git checkout master`
+- `git pull`
 
+Check what was changed and what was added commit by commit:
+- `git log --raw`
+
+Change git to a remote origin which is your gitlab/github account:
+- `git remote add origin https://github.com/egijakalnina/hands_on_task_git.git`
 
 
