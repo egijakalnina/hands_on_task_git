@@ -1,16 +1,18 @@
 To initialize a new local repository:  
 - `git init`
     
-To make Feature_A branch:  
+To make Feature_A branch, make changes and commit them:  
 - `git checkout -b Feature_A`
+- `git add .`
+- `git commit -m "Made some changes"`
 
-Create Feature_B branch:  
+Create Feature_B branch, make changes and commit them:  
 - `git checkout -b Feature_B`
+- `git add .`
+- `git commit -m "Made some changes"`
 
-Create Feature_C branch:  
+Create Feature_C branch, make changes and commit them:  
 - `git checkout -b Feature_C`
-
-Make commit:
 - `git add .`
 - `git commit -m "Made some changes"`
 
@@ -35,5 +37,6 @@ Check what was changed and what was added commit by commit:
 
 Change git to a remote origin which is your gitlab/github account:
 - `git remote add origin https://github.com/egijakalnina/hands_on_task_git.git`
+- `git push`
 
 
