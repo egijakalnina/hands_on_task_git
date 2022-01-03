@@ -10,6 +10,10 @@ Create Feature_B branch:
 Create Feature_C branch:  
 - `git checkout -b Feature_C`
 
+Make commit:
+- `git add .`
+- `git commit -m "Made some changes"`
+
 Create Feature_D branch:  
 - `git checkout -b Feature_D`
 
