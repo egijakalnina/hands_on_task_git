@@ -10,3 +10,11 @@ Create Feature_B branch:
 Create Feature_C branch:  
 - `git checkout -b Feature_C`
 
+To merge the new feature into the master branch:
+- `git merge new-branch`
+
+Check if you have all changes in master branch:
+- ``
+
+
+
