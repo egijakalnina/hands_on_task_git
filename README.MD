@@ -37,6 +37,3 @@ Change git to a remote origin which is your gitlab/github account:
 - `git remote add origin https://github.com/egijakalnina/hands_on_task_git.git`
 
 
-
-
-
